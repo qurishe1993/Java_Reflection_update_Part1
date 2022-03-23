@@ -1,0 +1,11 @@
+
+firstly, i add here
+Java_Reflection_by_Wornoz.docx file 
+and  its being a PDF file Java_Reflection_by_Wornoz.pdf
+and its java source code file name is :java_reflection_job_assignment 
+
+secondly,
+Java_Refelection_journalDev2022_1.docx file 
+and  its being a PDF file Java_Refelection_journalDev2022_1.pdf
+and its java source code file name is :JournalDev_Java_Reflection_Example 
+then src+com+journaldev+reflection+example+then you will get source code
